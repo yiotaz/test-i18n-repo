@@ -1,1 +1,18 @@
 
+{
+  "hello": "Hello Transifexians",
+  "expectations": "Customers will <br>love</br> this new enhancement 💖",
+  "new_functionality": "Changing source text directly within Transifex Web Editor is now supported.",
+  "completely_new": {
+    "history": "Source version history is now available",
+    "restrictions":{
+      "developers":"Developers are not allowed to replace diverged strings",
+      "review":"Review action is not an option"
+    }
+  },
+  "v2": {
+    "reports": "Source Activity is not included in reports (#V2)",
+    "": ""
+  }
+
+}
