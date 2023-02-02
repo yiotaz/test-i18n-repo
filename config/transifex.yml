@@ -4,4 +4,4 @@ git:
         file_format: GITHUBMARKDOWN
         source_language: en
         source_file: README.md
-        translation_files_expression: 'README_<lang>.MD'
+        translation_files_expression: 'README_<lang>.md'
