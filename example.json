@@ -1,0 +1,22 @@
+{
+    "0old": {
+        "message": "This is a source\u21e5string",
+        "description": ""
+    },
+    "choosedocs": {
+        "message": "This is my first\u21a9project",
+        "description": ""
+    },
+    "2": {
+        "message": "Could you please help me",
+        "description": "\u21b5This is a developer note"
+    },
+    "aloha": {
+        "message": "Could you please\u00A0help me",
+        "description": "This is\u00A0a developer note"
+    },
+    "aloha": {
+        "message": "With tab please\u00A0help me with\u0009",
+        "description": "This is\u00A0a tab additional note\u0009"
+    }
+}
