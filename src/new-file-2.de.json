@@ -1,0 +1,15 @@
+{
+  "hello": "Hallo Transifexians",
+  "expectations": "Kunden werden <br> diese neue Verbesserung 💖 lieben",
+  "new_functionality": "Direkte Änderungen des Quelltextes im Transifex Web Editor werden jetzt unterstützt.",
+  "completely_new": {
+    "history": "Versionsverlauf der Quelle ist jetzt verfügbar",
+    "restrictions": {
+      "developers": "Entwickler dürfen keine abweichenden Zeichenfolgen ersetzen",
+      "review": "Überprüfung ist keine Option"
+    }
+  },
+  "v2": {
+    "reports": "Die Quellaktivität ist in Berichten nicht enthalten (#V2)"
+  }
+}
