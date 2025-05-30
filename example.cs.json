@@ -1,0 +1,16 @@
+{
+  "0old": {
+    "message": "Toto je zdrojový řetězec"
+  },
+  "choosedocs": {
+    "message": "Toto je můj první↩projekt"
+  },
+  "2": {
+    "message": "Můžete mi prosím pomoci",
+    "description": "Toto je poznámka vývojáře"
+  },
+  "aloha": {
+    "message": "S tabulátorem mi prosím pomozte\t",
+    "description": "Toto je další poznámka k záložce\t"
+  }
+}
