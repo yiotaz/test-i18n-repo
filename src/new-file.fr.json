@@ -1,0 +1,15 @@
+{
+  "hello": "Bonjour Transifexians",
+  "expectations": "Les clients vont <br>adorer</br> cette nouvelle amélioration 💖",
+  "new_functionality": "La modification du texte source directement dans l'éditeur Web Transifex est désormais prise en charge.",
+  "completely_new": {
+    "history": "L'historique des versions de la source est maintenant disponible",
+    "restrictions": {
+      "developers": "Les développeurs ne sont pas autorisés à remplacer les chaînes divergentes",
+      "review": "La révision de l'action n'est pas une option"
+    }
+  },
+  "v2": {
+    "reports": "L'activité source n'est pas incluse dans les rapports (#V2)"
+  }
+}
