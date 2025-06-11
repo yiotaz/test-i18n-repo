@@ -1,0 +1,16 @@
+{
+  "0old": {
+    "message": "Dies ist ein Quellstring"
+  },
+  "choosedocs": {
+    "message": "Dies ist mein erstes↩Projekt"
+  },
+  "2": {
+    "message": "Könnten Sie mir bitte helfenKönnten Sie mir bitte helfen?",
+    "description": "Dies ist eine Entwicklernotiz"
+  },
+  "aloha": {
+    "message": "Mit Tab bitte hilf mir mit\t",
+    "description": "Dies ist eine zusätzliche Notiz zur Registerkarte\t"
+  }
+}
