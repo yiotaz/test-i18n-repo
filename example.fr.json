@@ -1,0 +1,16 @@
+{
+  "0old": {
+    "message": "Ceci est une chaîne source⇥"
+  },
+  "choosedocs": {
+    "message": "C'est mon premier↩projet"
+  },
+  "2": {
+    "message": "Peux-tu m'aider s'il te plaît Peux-tu m'aider s'il te plaît ?",
+    "description": "Ceci est une note de développeur"
+  },
+  "aloha": {
+    "message": "Avec l'onglet, aide-moi s'il te plaît\t",
+    "description": "Ceci est une note supplémentaire de tabulation\t"
+  }
+}
