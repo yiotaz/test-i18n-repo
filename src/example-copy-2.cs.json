@@ -1,0 +1,15 @@
+{
+  "hello": "Ahoj Transifexiáni",
+  "expectations": "Zákazníci si toto nové vylepšení <br>zamilují</br> 💖",
+  "new_functionality": "Úprava zdrojového textu přímo v Transifex Web Editoru je nyní podporována.",
+  "completely_new": {
+    "history": "Historie verzí zdrojového kódu je nyní k dispozici",
+    "restrictions": {
+      "developers": "Vývojáři nesmějí nahrazovat odlišné řetězce",
+      "review": "Přezkoumání akce není možností"
+    }
+  },
+  "v2": {
+    "reports": "Zdrojová aktivita není zahrnuta ve zprávách (#V2)"
+  }
+}
